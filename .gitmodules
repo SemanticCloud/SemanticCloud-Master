@@ -1,0 +1,3 @@
+[submodule "Agency"]
+	path = Agency
+	url = git@github.com:SemanticCloud/Agency.git
