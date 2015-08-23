@@ -1,3 +1,6 @@
 [submodule "Agency"]
 	path = Agency
 	url = git@github.com:SemanticCloud/Agency.git
+[submodule "Dashboard"]
+	path = Dashboard
+	url = git@github.com:SemanticCloud/Dashboard.git
